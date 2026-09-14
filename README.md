@@ -10,4 +10,4 @@ The simulator mimics a real MIPS R3000 CPU closely enough that it can actually r
 It's a 32-bit machine, so pointers and integers are both 4 bytes (doubles need 8-byte alignment).
 Since nobody has an actual MIPS/Ultrix box lying around to compile on, you cross-compile your test programs on a regular Linux/Intel machine using a special GCC cross-compiler targeting decstation-ultrix, then load the resulting binary into the simulator to run.
 
-If you're a recruiter, classmate, or just curious and want to see more, feel free to email me at abhiduttaca@gmail.com.
+If you are interested in seeing the code, feel free to email me at abhiduttaca@gmail.com.
